@@ -1,0 +1,49 @@
+* {
+background-color: ghostwhite
+}
+
+h1 {
+    width: 800px;
+    height: 70px;
+    border: 0px solid blue;
+    background-color: dodgerblue;
+    padding-left: 5px;
+    padding-top: 10px;
+    font-family: monospace;
+}
+
+#domov {
+    margin: -25px 10px 400px 700px;
+    right: 10px;
+    color: white;
+    font-size: 18px;
+    background-color: dodgerblue;
+    border: none;
+}
+
+img {
+    width: 235px;
+    heigth: 200px;
+    float: left;
+}
+
+#knof {
+    margin-top: 270px;
+    border: none;
+}
+
+#tabelca {
+    margin-top: 5px;
+    border: 2px solid:blue;
+    float: left;
+}
+
+#prosticas {
+    margin-left: 300px;
+    margin-top: -290px;
+}
+
+#footer {
+    margin-left: 300px;
+    margin-top: 50px;
+}
